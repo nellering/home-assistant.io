@@ -39,6 +39,7 @@ Known supported devices:
 - Denon AVR-X4300H
 - Denon AVR-X4400H
 - Denon AVR-X4500H
+- Denon AVR-X6300H
 - Denon AVR-X6500H
 - Denon AVR-1912
 - Denon AVR-2312CI
